@@ -1,0 +1,6 @@
+c:\users\jade\documents\visual studio 2015\Projects\HangmanCP330\HangmanCP330\bin\Debug\HangmanCP330.exe.config
+c:\users\jade\documents\visual studio 2015\Projects\HangmanCP330\HangmanCP330\bin\Debug\HangmanCP330.exe
+c:\users\jade\documents\visual studio 2015\Projects\HangmanCP330\HangmanCP330\bin\Debug\HangmanCP330.pdb
+c:\users\jade\documents\visual studio 2015\Projects\HangmanCP330\HangmanCP330\obj\Debug\HangmanCP330.csprojResolveAssemblyReference.cache
+c:\users\jade\documents\visual studio 2015\Projects\HangmanCP330\HangmanCP330\obj\Debug\HangmanCP330.exe
+c:\users\jade\documents\visual studio 2015\Projects\HangmanCP330\HangmanCP330\obj\Debug\HangmanCP330.pdb
